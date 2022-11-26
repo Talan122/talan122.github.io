@@ -13,3 +13,4 @@ ffmpeg -i "%videoInput%" %additionalArgs% -i palette.png -filter_complex "[0:v] 
 del "palette.png"
 
 echo "Done!"
+pause
