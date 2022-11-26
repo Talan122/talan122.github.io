@@ -6,6 +6,6 @@ There is no particular effort put into this.
 
 ## Endpoints
 
-talan122.github.io/batch/
+https://talan122.github.io/batch/
 
-talan122.github.io/fonts/
+https://talan122.github.io/fonts/
