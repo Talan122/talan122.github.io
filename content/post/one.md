@@ -16,6 +16,7 @@ After:
 ![](https://cdn.discordapp.com/attachments/313445620750876682/1082329939631689858/image.png)
 
 There is still much work to do but I'm happy with it.
+Edit: I use OperaGX and didn't realize the background wasn't a dark color. I'll fix that in some time.
 
 I'm initially building this website with the Hugo framework which you can find [here](https://gohugo.io) and the Ananke theme found [here](https://github.com/theNewDynamic/gohugo-theme-ananke)
 
