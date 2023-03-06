@@ -1,0 +1,19 @@
+.index_padding {
+    padding-bottom: 1rem;
+}
+
+.other_header_padding {
+    padding-top: 0rem;
+    padding-bottom: 0rem;
+}
+
+.footer_padding {
+    padding-top: 0rem;
+    padding-bottom: 0rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.page_footing {
+    padding-bottom: 8rem;
+}
