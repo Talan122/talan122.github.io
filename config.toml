@@ -1,0 +1,30 @@
+baseURL = 'http://talan122.github.io/'
+languageCode = 'en-us'
+title = 'Talan122'
+theme = 'ananke'
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+enableRobotsTXT = true
+
+[languages]
+    [languages.en]
+        title = "test"
+        weight = 1
+        contentDir = "content/"
+        copyright = "Talan All Rights Reserved"
+
+        [languages.en.menu]
+            [langauges.en.menu.main]
+                identifier = "source"
+                name = "Source"
+                url = "https://github.com/Talan122/talan122.github.io"
+
+
+[params]
+    author = "Talan122"
+    custom_css = ["custom.css"]
+    favicon = "https://cdn.discordapp.com/attachments/313445620750876682/1082340045308043264/large_large_Poly_LightBlue_pms291up_1471509902.png"
+
+[markup.goldmark.renderer]
+    unsafe = true
